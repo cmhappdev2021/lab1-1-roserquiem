@@ -12,3 +12,8 @@ print("How to use playgrounds to make writing Swift fun and simple")
 // Use multiple print functions to write out some of the lyrics to the song.
 
 
+print("One way or another I'm gonna see ya")
+print("I'm gonna get ya, get ya, get ya, get ya")
+print("One day, maybe next week")
+print("I'm gonna meet ya, I'm gonna meet ya")
+print("I'll meet ya")
